@@ -1,2 +1,2 @@
-# -VIPER
+# VIPER
 iOS VIPER Architecture
