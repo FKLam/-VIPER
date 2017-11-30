@@ -1,6 +1,9 @@
 # VIPER
 iOS VIPER Architecture
 
+责任单一原则
+==========
+
 * `View`——This is a UIViewController which has outlets to views and handles user interaction. View has 2 protocols.
     View Input——implemented in View Layer and called from Presenter Layer.<br>
     `*`Display info on View. e.g. showProgress()<br>
